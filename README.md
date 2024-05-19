@@ -2,6 +2,6 @@
 
 I joined github hoping to learn to use it.
 Haven't had time for that yet.
-The coolest newest thing I've found in a long time is https://branle.fiatjaf.com/
+The coolest newest thing I've found in a long time is Nostr.  See https://nostr.how
 
-My public key on branle is c2bb5d6529095edbfbdbe3f136175c146c6706526325b32da881c7c34c7b1ab8
+My public key on Nostr is npub1fj6hnhkugstka5yafnedln0jta9wv5zuv7spkqaz450dwcj9e7ysynj5hq
